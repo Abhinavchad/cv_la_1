@@ -41,4 +41,4 @@ app.get("/testData", (req, res) => {
   res.json({ testData });
 });
 
-app.listen(8080)
+app.listen(3000)
